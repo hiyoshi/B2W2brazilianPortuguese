@@ -1,146 +1,146 @@
-むかいとう
-ブラック２
-ホワイト２
-おとこ
-おんな
-たいせん
-こうかん
-とかい
-いなか
-あたまがいい
-うんどうできる
-じかん
-おかね
-がいけん
-なかみ
-かっこいい
-かわいい
-へんな
-ポカブ
-ミジュマル
-ツタージャ
-きょうそう
-きょうりょく
-ー
-かこにいく
-みらいにいく
-ひつようない
-かぞく
-ともだち
-じぶん
-かっこいいひと
-かしこいひと
-おもしろいひと
-ふしぎなひと
-ゆめをおう
-げんじつをみる
-ー
-ー
-おもしろい
-かっこいい
-やさしい
-おかねもち
-たたかい
-あつめる
-おはなし
-ポケモン
-そらをとぶ
-とうめいになる
-じかんをとめる
-こころをよむ
-つかう
-ためる
-じまんする
-きふする
-０ー５ねん
-５ー１０ねん
-１０ー１５ねん
-１５ねんー
-そとであそぶ
-かいもの
-どくしょ
-ゲーム
-ねてる
-ポップス
-ロック
-ジャズ
-ラップ
-クラシック
-ニュース
-ドラマ
-おわらい
-スポーツ
-アニメ
-アクション
-SF
-れんあい
-サスペンス
-コメディ
-ホラー
-アクション
-パズル
-ＲＰＧ
-アドベンチャー
-シミュレーション
-スポーツ
-しごと
-ひとづきあい
-しゅみ
-けんこう
-えらくなる
-ー
-うんどう
-どくしょ
-おんがく
-えいが
-りょこう
-りょうり
-つり
-ゲーム
-がくせい
-サラリーマン
-クリエーター
-じえいぎょう
-こうむいん
-しゅふ
-げいじゅつか
-フリーター
-チェレン
-ホミカ
-アーティ
-カミツレ
-ヤーコン
-フウロ
-シャガ
-シズイ
-ー
-ー
-ー
-ノーマル
-ほのお
-みず
-でんき
-くさ
-こおり
-かくとう
-どく
-じめん
-ひこう
-エスパー
-むし
-いわ
-ゴースト
-ドラゴン
-あく
-はがね
-０ー１０じかん
-１０ー２０じかん
-２０ー３０じかん
-３０ー４０じかん
-４０ー５０じかん
-５０ー６０じかん
-６０ー７０じかん
-７０ー８０じかん
-８０ー９０じかん
-９０ー１００じかん
+Sem Resposta
+Black2
+White2
+Masculino
+Feminino
+Batalha
+Troca
+A Cidade
+O País
+Esperto
+Atlético
+Tempo
+Dinheiro
+Aparencia
+Substancia
+Legal
+Bonito
+Estranho
+Tepig
+Oshawott
+Snivy
+A Praia
+Um Rio
+As Montanhas
+Classes
+Intervalos
+Almoço
+Familia
+Amigos
+Si mesmo
+Primavera
+Verão
+Outono
+Inverno
+Doce
+Picante
+Azedo
+Amargo
+Divertido
+Legal
+Gentil
+Rico
+Batalhas
+Coletando
+A Historia
+Pokémon
+Portugues
+Matematica
+Ciências
+Estudos Sociais
+Portugues
+Matematica
+Ciências
+Estudos Sociais
+Treinador
+Professor
+Equipe Plasma
+Pokémon
+Brincar fora
+Comprar
+Ler
+Video Game
+Dormir tarde
+Pop
+Rock
+Jazz
+Rap
+Classica
+Noticias
+Drama
+Comedia
+Esportes
+Desenhos
+Ação
+Ficçao Científica
+Romance
+Suspense
+Comedia
+Terror
+Baseball
+Futebol
+Basquete
+Futebol Americano
+Hockey
+Artes Marciais
+Vermelho
+Verde
+Azul
+Amarelo
+Branco
+Preto
+Exercicio
+Ler
+Musica
+Filmes
+Viajar
+Cozinhar
+Pescar
+Video Games
+Estudante
+Trabalhador de Escritorio
+Criador
+Autonomo
+Funcionario Publico
+Dona de Casa
+Artista
+Fazedor de bicos
+Chili
+Cilan
+Cress
+Lenora
+Burgh
+Elesa
+Clay
+Skyla
+Brycen
+Iris
+Drayden
+Normal
+Fogo
+Água
+Eletrico
+Grama
+Gelo
+Lutador
+Veneno
+Terra
+Voador
+Psiquico
+Inseto
+Pedra
+Fantasma
+Dragão
+Sombrio
+Aço
+0 - 10 Horas
+10 - 20 Horas
+20 - 30 Horas
+30 - 40 Horas
+40 - 50 Horas
+50 - 60 Horas
+60 - 70 Horas
+70 - 80 Horas
+80 - 90 Horas
+90 - 100 Horas
 １００じかんー
